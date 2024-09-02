@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "a065",
+      "cityName": "Dhaka",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-08-25T10:38:25.994Z",
+      "notes": "",
+      "position": {
+        "lat": "23.73004055946545",
+        "lng": "90.39550781250001"
+      }
+    },
+    {
+      "id": "8361",
+      "cityName": "Sylhet",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-08-25T10:38:41.146Z",
+      "notes": "",
+      "position": {
+        "lat": "24.87646991083154",
+        "lng": "91.8896484375"
+      }
+    },
+    {
+      "id": "eb55",
+      "cityName": "Baksiganj",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-08-25T10:38:49.090Z",
+      "notes": "",
+      "position": {
+        "lat": "25.264568475331583",
+        "lng": "89.81323242187501"
+      }
+    },
+    {
+      "id": "0a74",
+      "cityName": "Sirajganj",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-08-25T10:39:18.978Z",
+      "notes": "",
+      "position": {
+        "lat": "24.442148824865637",
+        "lng": "89.73083496093751"
+      }
+    },
+    {
+      "id": "18fd",
+      "cityName": "Getafe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-25T11:40:37.979Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "-3.6914062500000004"
+      }
+    },
+    {
+      "id": "c377",
+      "cityName": "Estamariu",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-26T09:09:41.288Z",
+      "notes": "",
+      "position": {
+        "lat": "42.374778361114195",
+        "lng": "1.56005859375"
+      }
+    }
+  ]
+}
